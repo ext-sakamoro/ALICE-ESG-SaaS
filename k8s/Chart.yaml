@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_ESG
+name: alice-esg
 description: ALICE ESG
 type: application
 version: 0.1.0
